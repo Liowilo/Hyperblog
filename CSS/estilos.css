@@ -12,6 +12,12 @@ p{
 
 }
 
+div{
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+    font-size: 7px;
+}
+
 #container{
     width: 70%;
     padding: lem;
